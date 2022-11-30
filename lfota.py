@@ -1,5 +1,12 @@
 #!/usr/bin/python3
 
+#
+# SPDX-License-Identifier: MIT
+#
+# Copyright (c) 2022 Kontron Electronics GmbH
+# Author: Frieder Schrempf
+#
+
 from argparse import ArgumentParser
 from pathlib import Path
 from serial import Serial
